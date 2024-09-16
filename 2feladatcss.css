@@ -1,0 +1,82 @@
+#cont0{
+    width: 800px;
+    height: 300px;
+    background: yellow;
+}
+#zold{
+    width: 100px;
+    height: 100px;
+}
+#sarga{
+    width: 100px;
+    height: 100px;
+}
+#lila{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    left: 350px;
+    bottom: 100px;
+    background: purple;
+}
+
+#list0{
+    width: 100%;
+    height: 400px;
+    background: yellow;
+    text-size-adjust: 0px;
+}
+.li{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    float: left;
+    background: purple;
+    position: relative;
+    top: 150px;
+    left: -45px;
+    color: #e4121200;
+}
+
+#list1{
+    width: 100%;
+    height: 400px;
+    background: yellow;
+    text-size-adjust: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    
+    
+}
+.li1{
+    width: 100px;
+    height: 100px;
+    float:left;
+    margin: -20px;
+    background: purple;
+    position: relative;
+    top: 0px;
+    left: -20px;
+    color: #e4121200;
+    display: flex;
+    justify-content: space-between;
+}
+#list2{
+    width: 100%;
+    height: 400px;
+    background: yellow;
+    text-size-adjust: 0px;
+}
+.li2{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    float: right;
+    background: purple;
+    position: relative;
+    top: 295px;
+    left: 5px;
+    color: #e4121200;
+}
